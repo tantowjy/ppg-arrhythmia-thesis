@@ -1,0 +1,11 @@
+imbalanced-learn==0.13.0
+keras==3.8.0
+matplotlib==3.10.0
+numpy==2.0.2
+pandas==2.2.3
+requests==2.32.3
+scipy==1.14.1
+seaborn==0.13.2
+tensorflow==2.18.0
+PyWavelets==1.8.0
+wfdb==4.1.2
